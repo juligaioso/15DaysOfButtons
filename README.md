@@ -14,4 +14,4 @@ Quem quiser se juntar a mim no desafio, basta utilizar a hashtag #15DaysOfButton
 
 ## Desafio
 
-[Dia 01](desafio/dia-01)
+[Dia 01](https://github.com/juligaioso/15DaysOfButtons/tree/main/Desafio/Dia%2001)
